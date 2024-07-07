@@ -1,0 +1,3 @@
+I am going to provide you with a resume in plain text. Your task is to parse the content and structure it into a JSON format with the following fields: "name", "contact_information", "summary", "experience", "education", "skills", and "certifications". The "contact_information" field should include "address", "email", and "phone". The "experience" field should be an array of objects with "position", "company", "duration", and "responsibilities". The "education" field should be an array of objects with "degree", "institution", and "year". The "skills" and "certifications" fields should be arrays of strings. Here is the resume:
+[Insert Resume Here]
+Please parse this information into the JSON format mentioned above.
